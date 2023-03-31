@@ -1,5 +1,5 @@
 # Exception-Handling-in-Java
-### This project is dedicated to demonstrate different types of exceptions and ways to handle them.
+### This project is dedicated to demonstrate different types of exceptions and ways to handle them in Java language.
 
 #### *Followings are important rules and theories*
 
