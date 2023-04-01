@@ -1,4 +1,8 @@
 # Exception-Handling-in-Java
+![repo-size](https://img.shields.io/github/repo-size/RandulaTharaka/Data-Structure-and-Algorithms) 
+![top-language](https://img.shields.io/github/languages/top/RandulaTharaka/Data-Structure-and-Algorithms) 
+![last-commit](https://img.shields.io/github/last-commit/RandulaTharaka/Data-Structure-and-Algorithms) 
+
 ## Overview 
 This project is dedicated to demonstrate different types of exceptions and ways to handle them in Java language. It is an IntelliJ IDEA project, So you can open the project using that IDE.
 
