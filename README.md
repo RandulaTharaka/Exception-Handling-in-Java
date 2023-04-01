@@ -1,11 +1,15 @@
 # Exception-Handling-in-Java
-### This project is dedicated to demonstrate different types of exceptions and ways to handle them in Java language.
+## Overview 
+This project is dedicated to demonstrate different types of exceptions and ways to handle them in Java language. It is an IntelliJ IDEA project, So you can open the project using that IDE.
 
-#### *Followings are important rules and theories*
+## Key Concepts
 
-- **Advantage of Handling Exception:** Be able to continue the flow of the program even exception occurs. 
-- **Hierarchy of Java Exception Classes:** 
-	The java.lang.Throwable class is the root class of Java Exception hierarchy inherited by two subclasses: Exception and Error.
+Following are summarized theories and rules that will be helpful
+
+- **Advantage of Handling Exception** 
+  - It continues the flow of the program even if exceptions occur. 
+- **Hierarchy of Java Exception Classes** 
+  - The java.lang.Throwable class is the root class of Java Exception hierarchy inherited by two subclasses: Exception and Error.
 		
 - **Types of Exceptions**
   - **Checked Exceptions**
@@ -62,4 +66,4 @@
 	- If the superclass method does not declare an exception, subclass overridden method cannot declare checked exception but it can declare unchecked exception.
 	- If the superclass method declares an exception, subclass overridden method can declare same, subclass exception or no exception but cannot declare parent exception. 
 		
-- *References used to write this note: [JavaTPoint](https://www.javatpoint.com/exception-handling-in-java)* 
+- *References used to write this note: [JavaTPoint](https://www.javatpoint.com/exception-handling-in-java) and [Baeldung](https://www.baeldung.com/java-exceptions)* 
