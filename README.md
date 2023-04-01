@@ -66,4 +66,4 @@ Following are summarized theories and rules that will be helpful
 	- If the superclass method does not declare an exception, subclass overridden method cannot declare checked exception but it can declare unchecked exception.
 	- If the superclass method declares an exception, subclass overridden method can declare same, subclass exception or no exception but cannot declare parent exception. 
 		
-- *References used to write this note: [JavaTPoint](https://www.javatpoint.com/exception-handling-in-java) and [Baeldung](https://www.baeldung.com/java-exceptions)* 
+*References used to write this summarized note: [JavaTPoint](https://www.javatpoint.com/exception-handling-in-java) and [Baeldung](https://www.baeldung.com/java-exceptions)* 
