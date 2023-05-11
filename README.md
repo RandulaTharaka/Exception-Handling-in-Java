@@ -4,7 +4,7 @@
 ![last-commit](https://img.shields.io/github/last-commit/RandulaTharaka/Data-Structure-and-Algorithms) 
 
 ## Overview 
-This project is dedicated to demonstrate different types of exceptions and ways to handle them in Java language. You can open the porject using IntelliJ IDEA IDE. 
+This project is dedicated to demonstrate different types of exceptions and ways to handle them in Java language. You can open the project using IntelliJ IDEA IDE. 
 
 ## Key Concepts
 
